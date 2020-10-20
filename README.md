@@ -1,5 +1,5 @@
 # ED
-Atividades Práticas desenvolvidas na disciplina Estrutura de Dados 1 (ED l).
+Atividades Práticas desenvolvidas nas disciplinas de Estrutura de Dados I e II.
 <br>
 - Os trabalhos foram construidos na linguagem C
 

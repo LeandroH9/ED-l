@@ -5,4 +5,5 @@ Atividades Práticas desenvolvidas nas disciplinas de Estrutura de Dados I e II.
 
 ## Funcionalidade de cada algoritmo 
 
-- **ATV 1** — TAD String Dinâmica e as funções para manipulação utilizando Lista Duplamente Encadeada.
+- **ATV 1** — TAD String Dinâmica utilizando Lista Duplamente Encadeada.
+- **ATV 2** — TAD Hashing com tratamento de colisão interno.

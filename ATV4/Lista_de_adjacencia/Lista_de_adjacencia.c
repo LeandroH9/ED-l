@@ -2,6 +2,7 @@
 #include <stdlib.h>
 #include "Lista_de_adjacencia.h"
 
+
 //mostra na tela o grafo na representação de uma lista de adjacencia
 void mostrarGrafo(Grafo *grafo){
     int nVertices = grafo->numVertices, i, j;
